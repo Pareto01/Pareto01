@@ -10,5 +10,5 @@
 Email: akinyemishuaib1995@gmail.com
 LinkedIn: linkedin.com/in/akinyemi-shuaib-o-37524a1b2
 GitHub: Pareto01
-Twitter: @Akinyemi_shuaib
+Twitter: https://twitter.com/akinyemi_shuaib
 -->
