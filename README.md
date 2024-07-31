@@ -1,9 +1,8 @@
 ### Hi my name is Akinyemi Shuaib
 **I'm a Data Analyst**
 - 🔭 I’m currently working on projects involving data mining and exploration
-- 🌱 I’m currently learning SQL and Python for Data Analysis
+- 🌱 I’m currently learning SQL, Python and R for Data Analysis
 - 👯 I’m looking to collaborate with other data analyst community leader
-- 🤔 2023 last Quarter Goals: Improve my technical and networking skills and start job hunting
 - ⚡ Fun fact: I love teaching SQL
 - ✨ If you'd like to get in touch with me or collaborate on a data analysis project, please feel free to reach out through the following channels:
 
